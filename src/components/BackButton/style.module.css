@@ -1,0 +1,9 @@
+.backButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.backButton:hover {
+  cursor: pointer;
+}

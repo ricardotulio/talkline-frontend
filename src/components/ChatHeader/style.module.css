@@ -1,0 +1,9 @@
+.chatHeader {
+  display: flex;
+  flex-direction: row;
+  background-color: blueviolet;
+}
+
+.chatHeader > * {
+  margin-left: 10px;
+}

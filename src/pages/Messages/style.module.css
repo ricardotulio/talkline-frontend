@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+}
+
+@media (min-width:1025px) {
+  .sidebarContainer {
+    width: 30%;
+  }
+}
+
+.sidebarContainer {
+  width: 100%;
+}

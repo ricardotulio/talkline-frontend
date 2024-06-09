@@ -1,0 +1,12 @@
+.container {
+  width: 100%-20px;
+  padding: 0px 10px;
+}
+
+.messages > *:first-child {
+  margin-top: 5px;
+}
+
+.messages > * {
+  margin-bottom: 5px;
+}
